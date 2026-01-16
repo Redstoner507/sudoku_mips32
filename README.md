@@ -2,6 +2,7 @@
 
 ## Description
 Ce solveur, programmé en **MIPS32**, permet de lire une grille à partir d’un fichier et d’en afficher toutes les solutions à l’aide d’un algorithme de **rétropropagation**.
+/!\ La présence de commentaires à chaques lignes était une des consignes du projet
 
 ## Utilisation
 Il est possible d’exécuter le programme avec les logiciels **MARS**, **SPIM** ou **QtSpim**.  
